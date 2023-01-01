@@ -1,0 +1,59 @@
+.topbanner{
+    background-color: aqua;
+    background-size: cover;
+     background-attachment: fixed;
+     padding: 0 0 0 0;
+     padding: 5rem 0; 
+}
+#banner1{
+    padding-left: 20px;
+   
+}
+#banner2{
+    padding-left: 50px;
+    font-size: 60px;
+}
+#banner3{
+    padding-top: 100px;
+    font-size: 20px;
+    font-style: italic;
+}
+body{
+    background-color: rgb(205, 205, 205);
+}
+.facillities{
+    display: grid;
+    grid-template-columns:grid grid grid ;
+}
+.samin1{
+    padding-left: 50px;
+    font-size: 20px;
+}
+.table2{
+    background-color: rgb(0, 79, 148);
+    color: white;
+    font-style: italic;
+    
+}
+#facillities{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+a{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    
+    
+}
+.b1{
+    font-size: 30px;
+}
+.p1{
+    font-size: 20px;
+    font-style: italic;
+}
+.img1{
+    padding-left: 20px;
+}
